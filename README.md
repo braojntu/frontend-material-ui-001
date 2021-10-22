@@ -1,6 +1,6 @@
 # This demo is for front end developers to get familiarize with Material UI framework.
 ### Netlify Deployment URL:
-[Demo] (https://ecstatic-colden-c950a2.netlify.app/)
+[Demo](https://ecstatic-colden-c950a2.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
