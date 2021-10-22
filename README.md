@@ -1,9 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with Create React App
-
 # This demo is for front end developers to get familiarize with Material UI framework.
-
+### Netlify Deployment URL:
+[Demo](https://ecstatic-colden-c950a2.netlify.app/) to view it in the browser.
 ## Available Scripts
 
 In the project directory, you can run:
