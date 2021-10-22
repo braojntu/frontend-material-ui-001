@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App
 
-# This demo is front end developers would like to get familiarize with Material UI framework.
+# This demo is for front end developers to get familiarize with Material UI framework.
 
 ## Available Scripts
 
